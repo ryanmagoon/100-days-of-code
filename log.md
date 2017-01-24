@@ -23,3 +23,11 @@
 **Thoughts**: I used Tyler McGiniss's reactjs program to learn what I needed to do this project. Highly recommended!
 
 **link to work**: [mock react chat app](http://codepen.io/ryanmagoon/pen/qRqLeG)
+
+### Day 4: Tuesday January 24th, 2017
+
+**Today's Progress**: Made a super simple github profile finder with jquery and bootstrap
+
+**Thoughts**: This was easy, still need to get more comfortable with whipping out AJAX requests, in jquery or vanilla js.
+
+**link to work**: [Github Finder](https://github.com/ryanmagoon/github-finder-jquery)
